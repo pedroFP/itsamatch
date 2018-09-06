@@ -1,1 +1,1 @@
-# https://pedrofp.github.io/itsamatch/. 
+# https://pedrofp.github.io/itsamatch/
